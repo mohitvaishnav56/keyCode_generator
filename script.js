@@ -1,4 +1,4 @@
-alert("Enter any key to know its details")
+// alert("Enter any key to know its details")
 let card = document.querySelector(".container");
 
 card.onmousemove = function (e) {
